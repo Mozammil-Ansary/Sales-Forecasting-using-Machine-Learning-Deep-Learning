@@ -62,7 +62,7 @@ The following preprocessing techniques were applied:
 - Feature engineering using:Day, Month, Quarter, Year
 - Data cleaning and formatting
 
-##🤖 Machine Learning Models Used
+## 🤖 Machine Learning Models Used
 
 Implemented and compared multiple regression models:
 
@@ -77,7 +77,7 @@ Implemented and compared multiple regression models:
 
 🧠 Deep Learning & Time Series Forecasting
 
-= Implemented LSTM (Long Short-Term Memory) model for time-series forecasting to capture sequential sales dependencies and predict future sales trends.
+- Implemented LSTM (Long Short-Term Memory) model for time-series forecasting to capture sequential sales dependencies and predict future sales trends.
 
 ## 📈 Model Evaluation
 
@@ -106,13 +106,6 @@ The models were evaluated using:
 - Programming Language: Python 🐍
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, TensorFlow / Keras
 
-
-## 📁 Project Structure
-📦 Sales-Forecasting-Capstone
- ┣ 📜 CAPSTONE_SALES_FORECASTING.ipynb
- ┣ 📂 datasets
- ┣ 📂 images
- ┗ 📜 README.md
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
